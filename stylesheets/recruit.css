@@ -1,0 +1,140 @@
+/*中部*/
+.bg{
+    background: url("../imgs/recruit_banner.png")  center no-repeat;
+    height: 400px;
+    position: relative;
+}
+.bg .inbox{
+    width: 800px;
+    position: relative;
+    margin: 0 auto;
+
+}
+.bg .inbox img{
+position: absolute;
+top: 166px;
+left: 68px;
+}
+.man{
+    margin:  0 auto;
+}
+.man div{
+    width: 1000px;
+    height: 47px;
+    margin: 0 auto;
+    border-bottom: 1px solid #ebf1ed;
+    line-height: 47px;
+}
+.man>div p{
+    float: left;
+    width: 250px;
+    text-align: center;
+}
+.content{
+    height: 1141px;
+    width: 1200px;
+    border:1px solid rgba(224,224,224,1);
+    border-radius:10px 10px 10px 10px;
+    margin: 0 auto;
+}
+.top{
+    height: 60px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.top div{
+    float: left;
+}
+.top div:nth-child(1){
+    width: 600px;
+    height: 60px;
+    background:rgba(0,146,63,1);
+    border-radius:10px 0 0 0;
+    text-align: center;
+    line-height: 60px;
+    color:rgba(248,250,248,1);
+    font-size:18px
+}
+.top div:nth-child(2){
+    width: 600px;
+    height: 60px;
+    background:rgba(235,241,237,1);
+    border-radius:10px 0 0 0;
+    text-align: center;
+    line-height: 60px;
+    color:rgba(51,51,51,1);
+    font-size:18px
+}
+.itselfnav{
+    height:40px;
+    width: 1200px;
+    text-align: right;
+    font-size: 12px;
+    color:rgba(102,102,102,1);
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.itselfnav a{
+    color:rgba(102,102,102,1);
+}
+/*底部*/
+.agreement{
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    color:rgba(51,51,51,1);
+    line-height:20px;
+    margin-top: 80px;
+}
+.map{
+    height: 360px;
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+}
+.map-1{
+    height: 273px;
+    width: 510px;
+    background-color: #00923f;
+    position: absolute;
+    z-index:1;
+}
+.map .map-1 p{
+    margin-left: 20px;
+}
+.map .map-1 p:nth-child(1){
+    font-size:24px;
+    color:rgba(255,255,255,1);
+    margin-top: 24px;
+    margin-bottom: 19px;
+}
+.map .map-1 p:nth-child(2){
+    font-size:14px;
+    color:rgba(235,241,237,1);
+    margin-bottom: 16px;
+}
+.map .map-1 p:nth-child(3){
+     font-size:14px;
+     color:rgba(235,241,237,1);
+     margin-bottom: 6px;
+ }.map .map-1 p:nth-child(4){
+      font-size:14px;
+      color:rgba(235,241,237,1);
+      margin-bottom: 53px;
+  }
+.map .map-1 p:nth-child(5){
+    font-size:16px;
+    color:rgba(235,241,237,1);
+    margin-bottom: 16px;
+}
+.map .map-1 p:nth-child(6){
+    font-size:16px;
+    color:rgba(235,241,237,1);
+}
+.map  img{
+    position: absolute;
+    top: 44px;
+    left: 390px;
+}
+

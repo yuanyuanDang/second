@@ -1,0 +1,95 @@
+/*中部*/
+.bg{
+    background: url("../imgs/help center_banner.png") center no-repeat;
+    height: 400px;
+}
+.itselfnav{
+    height:40px;
+    width: 1200px;
+    text-align: right;
+    font-size: 12px;
+    color:rgba(102,102,102,1);
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.itselfnav a{
+    color:rgba(102,102,102,1);
+}
+/*内容*/
+.content{
+    height: 540px;
+    width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.content div{
+    float: left;
+}
+.content .content-left{
+    height: 500px;
+    width: 210px;
+    border:1px solid rgba(224,224,224,1);
+    border-radius:10px;
+}
+.content .content-left div{
+    width: 210px;
+    height: 40px;
+    line-height:36px;
+    font-size:16px;
+}
+.content .content-left p{
+    margin-left: 20px;
+}
+.content .content-left .left-1{
+    height: 60px;
+    font-size:18px;
+    color:rgba(47,49,47,1);
+    background:rgba(237,239,238,1);
+    line-height: 60px;
+}
+.content .content-left div:nth-child(2){
+    background:rgba(0,146,63,1);
+    color:rgba(248,250,248,1);
+}
+.content .content-right{
+    background:rgba(255,255,255,1);
+    border:1px solid rgba(224,224,224,1);
+    border-radius:10px;
+    width: 930px;
+    float: right;
+}
+.content .content-right div{
+    width: 100%;
+}
+.content .content-right .right-1{
+    height:60px;
+    background:rgba(237,239,238,1);
+    border:1px solid rgba(224,224,224,1);
+    border-radius:10px 10px 0 0;
+}
+.content .content-right .right-1 p{
+    font-size:16px;
+    color:rgba(47,49,47,1);
+    line-height:60px;
+    margin-left: 40px;
+}
+.content .content-right .right-4{
+    height: 20px;
+}
+.content .content-right .right-2{
+    background:rgba(195,201,197,1);
+    height: 40px;
+}
+.content .content-right .right-2 p{
+    font-size:14px;
+    color:rgba(99,102,98,1);
+    line-height:15px;
+    margin: 14px 0 0 40px;
+}
+
+.content .content-right .right-3 p{
+    font-size:14px;
+    color:rgba(99,102,98,1);
+    line-height:15px;
+    margin: 14px 0 25px 40px;
+}

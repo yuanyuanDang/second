@@ -1,0 +1,57 @@
+
+.agreement{
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    line-height:20px;
+}
+.agreement a{
+    color:rgba(51,51,51,1);
+    margin: 0 5px 0 5px;
+}
+.footer{
+    height: 280px;
+    background:rgba(0,161,87,1);
+    position: relative;
+}
+.footer .QR-code{
+    height: 200px;
+    text-align: center;
+}
+.footer .QR-code img{
+    margin-top: 28px;
+}
+.footer .QR-code .QR-code-2{
+    height: 30px;
+}
+.footer .licence{
+    height: 30px;
+    width: 1020px;
+    margin:  0 auto;
+    text-align: center;
+    font-size:12px;
+    color:rgba(247,250,247,1);
+    border-bottom:1px solid rgba(247,250,247,1);
+}
+
+.footer .licence span{
+    width: 40px;
+    text-align: center;
+    margin: 0 10px;
+}
+.footer .licence a {
+    color:rgba(247,250,247,1);
+}
+.footer .paper{
+    font-size:12px;
+    color:rgba(247,250,247,1);
+    line-height:20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.backTop{
+    position: fixed;
+    top: 50%;
+    right: 10px;
+    z-index: 7;
+}

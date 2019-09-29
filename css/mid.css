@@ -1,0 +1,139 @@
+.poster .middle {
+	width:730px;
+	height:847px;
+	background:rgba(231,255,237,1);
+	box-shadow:0 9px 40px 0 rgba(0, 0, 0, 0.13);
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 216px;
+	z-index: 2;
+}
+.poster .left-menu .detail .list:hover .poster .middle {
+	display: block;
+}
+
+.poster .middle .west {
+	width: 375px;
+	height: 725px;
+	margin: 116px 100px 0 12px;
+	float: left;
+}
+.poster .middle .west .method {
+/*	padding-bottom: 50px; */
+}
+.poster .middle .west .method .subset {
+	width: 96px;
+	float: left;
+}
+.poster .middle .west .method .part {
+	float: left;
+	width: 279px;
+	margin-bottom: 45px;
+}
+.poster .middle .west .method a {
+	font-size:12px;
+	font-family:PingFang;
+	font-weight:400;
+	color:rgba(0,0,0,1);
+	margin-right: 8px;
+	display: inline-block;
+}
+.poster .middle .east {
+	width: 187px;
+	height: 725px;
+	margin: 116px 9px 0 12px;
+	float: right;
+}
+.poster .middle .east .hot {
+	height:14px;
+	font-size:14px;
+	font-family:PingFang;
+	font-weight:400;
+	color:rgba(0,0,0,1);
+}
+.poster .middle .east .examples {
+	/*width: 171px;*/
+	float: right;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 17px;
+
+}
+.poster .middle .east .examples .brand {
+	width: 85px;
+	margin-bottom:25px;
+}
+.poster .middle .east .examples .brand .a-pic {
+	width:66px;
+	height:66px;
+	display: block;
+	background: url(../images/home_logo.RMPP.01.png) no-repeat center/cover;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .b-pic {
+	width:88px;
+	height:66px;
+	display: block;
+	background: url(../images/home_logo.RMPP.02.png) no-repeat center/cover;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .c-pic {
+	width:85px;
+	height:25px;
+	display: block;
+	background: url(../images/home_logo.RMPP.03.png) no-repeat center/cover;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .d-pic {
+	width:68px;
+	height:25px;
+	display: block;
+	background: url(../images/home_logo.RMPP.04.png) no-repeat center/100%;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .e-pic {
+	width:79px;
+	height:39px;
+	display: block;
+	background: url(../images/home_logo.RMPP.05.png) no-repeat center/100%;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .f-pic {
+	width:83px;
+	height:39px;
+	display: block;
+	background: url(../images/home_logo.RMPP.06.png) no-repeat center/100%;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .g-pic {
+	width:73px;
+	height:73px;
+	display: block;
+	background: url(../images/home_logo.RMPP.07.png) no-repeat center/100%;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .h-pic {
+	width:84px;
+	height:73px;
+	display: block;
+	background: url(../images/home_logo.RMPP.08.png) no-repeat center/100%;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand .i-pic {
+	width:91px;
+	height:40px;
+	display: block;
+	background: url(../images/home_logo.RMPP.09.png) no-repeat center/cover;
+	margin: 0 auto;
+}
+.poster .middle .east .examples .brand>p{
+	text-align: center;
+	font-size:12px;
+	font-family:PingFang;
+	font-weight:400;
+	color:rgba(0,0,0,1);
+	margin-top: 6px;
+}
